@@ -3,7 +3,7 @@ const settings = {
   author: 'Bot',
   botName: "Knight Bot",
   botOwner: 'Tysonleon Bot', // Your name
-  ownerNumber: '2348034555927', //Your number
+  ownerNumber: '2349038502682', //Your number
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   description: "This is a bot for managing group commands and automating tasks.",
